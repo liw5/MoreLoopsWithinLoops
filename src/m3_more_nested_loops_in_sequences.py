@@ -178,7 +178,6 @@ def largest_negative_number(seq_seq):
         return None
 
 
-
 def run_test_first_is_elsewhere_too():
     """ Tests the    first_is_elsewhere_too    function. """
     # ------------------------------------------------------------------
